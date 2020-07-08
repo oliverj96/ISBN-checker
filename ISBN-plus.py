@@ -1,7 +1,5 @@
 # Oliver Johnson, Anna George
-# CSC28500 Applied Discrete Structure
 # ISBN checker
-# Last modified 10/24/19
 
 import urllib.request
 import json
